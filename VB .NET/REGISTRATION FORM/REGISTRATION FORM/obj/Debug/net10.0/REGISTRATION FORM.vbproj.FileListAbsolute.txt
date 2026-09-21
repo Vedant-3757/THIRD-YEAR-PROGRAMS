@@ -1,0 +1,14 @@
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\bin\Debug\net10.0\REGISTRATION FORM.exe
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\bin\Debug\net10.0\REGISTRATION FORM.deps.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\bin\Debug\net10.0\REGISTRATION FORM.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\bin\Debug\net10.0\REGISTRATION FORM.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\bin\Debug\net10.0\REGISTRATION FORM.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\obj\Debug\net10.0\REGISTRATION FORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\obj\Debug\net10.0\REGISTRATION FORM.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\obj\Debug\net10.0\REGISTRATION FORM.AssemblyInfo.vb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\obj\Debug\net10.0\REGISTRATION FORM.vbproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\obj\Debug\net10.0\REGISTRATION FORM.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\obj\Debug\net10.0\refint\REGISTRATION FORM.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\obj\Debug\net10.0\REGISTRATION FORM.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\obj\Debug\net10.0\REGISTRATION FORM.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\REGISTRATION FORM\REGISTRATION FORM\obj\Debug\net10.0\ref\REGISTRATION FORM.dll

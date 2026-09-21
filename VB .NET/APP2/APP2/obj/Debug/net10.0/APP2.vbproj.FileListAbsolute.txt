@@ -1,0 +1,14 @@
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\bin\Debug\net10.0\APP2.exe
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\bin\Debug\net10.0\APP2.deps.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\bin\Debug\net10.0\APP2.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\bin\Debug\net10.0\APP2.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\bin\Debug\net10.0\APP2.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\obj\Debug\net10.0\APP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\obj\Debug\net10.0\APP2.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\obj\Debug\net10.0\APP2.AssemblyInfo.vb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\obj\Debug\net10.0\APP2.vbproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\obj\Debug\net10.0\APP2.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\obj\Debug\net10.0\refint\APP2.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\obj\Debug\net10.0\APP2.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\obj\Debug\net10.0\APP2.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\APP2\APP2\obj\Debug\net10.0\ref\APP2.dll

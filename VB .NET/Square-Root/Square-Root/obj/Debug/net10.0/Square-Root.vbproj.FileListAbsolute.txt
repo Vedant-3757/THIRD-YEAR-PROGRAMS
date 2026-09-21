@@ -1,0 +1,14 @@
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\bin\Debug\net10.0\Square-Root.exe
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\bin\Debug\net10.0\Square-Root.deps.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\bin\Debug\net10.0\Square-Root.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\bin\Debug\net10.0\Square-Root.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\bin\Debug\net10.0\Square-Root.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\obj\Debug\net10.0\Square-Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\obj\Debug\net10.0\Square-Root.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\obj\Debug\net10.0\Square-Root.AssemblyInfo.vb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\obj\Debug\net10.0\Square-Root.vbproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\obj\Debug\net10.0\Square-Root.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\obj\Debug\net10.0\refint\Square-Root.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\obj\Debug\net10.0\Square-Root.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\obj\Debug\net10.0\Square-Root.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Square-Root\Square-Root\obj\Debug\net10.0\ref\Square-Root.dll

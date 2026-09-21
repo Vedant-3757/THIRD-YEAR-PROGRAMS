@@ -1,0 +1,14 @@
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\bin\Debug\net10.0\ALL LOOPS.exe
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\bin\Debug\net10.0\ALL LOOPS.deps.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\bin\Debug\net10.0\ALL LOOPS.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\bin\Debug\net10.0\ALL LOOPS.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\bin\Debug\net10.0\ALL LOOPS.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\obj\Debug\net10.0\ALL LOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\obj\Debug\net10.0\ALL LOOPS.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\obj\Debug\net10.0\ALL LOOPS.AssemblyInfo.vb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\obj\Debug\net10.0\ALL LOOPS.vbproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\obj\Debug\net10.0\ALL LOOPS.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\obj\Debug\net10.0\refint\ALL LOOPS.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\obj\Debug\net10.0\ALL LOOPS.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\obj\Debug\net10.0\ALL LOOPS.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\ALL LOOPS\ALL LOOPS\obj\Debug\net10.0\ref\ALL LOOPS.dll

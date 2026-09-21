@@ -1,0 +1,86 @@
+<!--Additional Task:
+ Task: College Event Registration Form Create a College Event Registration Form using HTML.
+The form should collect the following information:
+Student Name– text input 
+Roll Number– number/text input 
+Email– email input 
+Mobile Number– telephone input 
+Gender– radio buttons 
+Course– dropdown list 
+Year– radio buttons 
+Events Interested In– checkboxes
+ Coding Competition
+ Quiz
+ Poster Presentation 
+ Sports 
+Event Date– date input 
+Preferred Time– time input 
+Additional Comments– textarea 
+Terms & Conditions– checkbox 
+Register and Reset buttons -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Event Registration Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body><br><br>
+    <form><br><br>
+        <h1>Event Registration Form</h1><br>
+        <label for="name">Student Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="roll">Roll Number :</label>
+        <input type="number" id="roll" name="roll" required><br><br>
+
+        <label for="email">Email      :</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="mobile">Mobile Number:</label>
+        <input type="tel" id="mobile" name="mobile" required><br><br>
+        
+        
+        <label for="gender">Gender:</label>
+        <input type="radio" id="male" name="gender" value="male">Male
+        <input type="radio" id="female" name="gender" value="female">Female
+        <br><br>
+
+        <label for="course" placeholder="Select Course">Course:</label>
+        <select name="course" >
+                <option></option>
+                <option>BSC IT</option>
+                <option>BCS</option>
+                <option>BCA</option>̥ 
+        </select><br><br>
+
+        <label for="year">Year:</label>
+        <input type="radio" id="first" name="year" value="first">First Year
+        <input type="radio" id="second" name="year" value="second">Second Year
+        <input type="radio" id="third" name="year" value="third">Third Year
+        <br><br>
+        
+        <label for="events">Events Interested In:</label><br>
+        <input type="checkbox" id="coding" name="events" value="coding">Coding Competition<br>
+        <input type="checkbox" id="quiz" name="events" value="quiz">Quiz<br>
+        <input type="checkbox" id="poster" name="events" value="poster">Poster Presentation<br>
+        <input type="checkbox" id="sports" name="events" value="sports">Sports<br><br>  
+        
+        <label for="event-date">Event Date:</label>
+        <input type="date" name="event-date"><br><br>
+
+        <label for="time">Preferred Time:</label>
+        <input type="time" name="time"><br><br>
+
+        <label for="comments">Additional Comments:</label><br>
+        <textarea name="comments" rows="4" cols="50"></textarea><br><br>
+
+        
+        <input type="checkbox" id="terms" name="terms" required>Terms & Conditions<br><br>
+
+        
+        <button type="submit">Register</button>
+        <button type="reset">Reset</button><br><br>
+
+    </form>
+</body>
+</html>

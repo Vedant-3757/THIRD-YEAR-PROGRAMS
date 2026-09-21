@@ -1,0 +1,14 @@
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\bin\Debug\net10.0\Multi-TRY-CATCH.exe
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\bin\Debug\net10.0\Multi-TRY-CATCH.deps.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\bin\Debug\net10.0\Multi-TRY-CATCH.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\bin\Debug\net10.0\Multi-TRY-CATCH.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\bin\Debug\net10.0\Multi-TRY-CATCH.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\obj\Debug\net10.0\Multi-TRY-CATCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\obj\Debug\net10.0\Multi-TRY-CATCH.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\obj\Debug\net10.0\Multi-TRY-CATCH.AssemblyInfo.vb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\obj\Debug\net10.0\Multi-TRY-CATCH.vbproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\obj\Debug\net10.0\Multi-TRY-CATCH.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\obj\Debug\net10.0\refint\Multi-TRY-CATCH.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\obj\Debug\net10.0\Multi-TRY-CATCH.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\obj\Debug\net10.0\Multi-TRY-CATCH.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Multi-TRY-CATCH\Multi-TRY-CATCH\obj\Debug\net10.0\ref\Multi-TRY-CATCH.dll

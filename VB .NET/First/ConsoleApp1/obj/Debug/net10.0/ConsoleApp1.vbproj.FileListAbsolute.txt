@@ -1,0 +1,14 @@
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.vb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\First\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll

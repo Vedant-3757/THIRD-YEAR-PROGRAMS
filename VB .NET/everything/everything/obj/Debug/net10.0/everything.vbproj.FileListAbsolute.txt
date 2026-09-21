@@ -1,0 +1,14 @@
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\bin\Debug\net10.0\everything.exe
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\bin\Debug\net10.0\everything.deps.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\bin\Debug\net10.0\everything.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\bin\Debug\net10.0\everything.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\bin\Debug\net10.0\everything.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\obj\Debug\net10.0\everything.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\obj\Debug\net10.0\everything.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\obj\Debug\net10.0\everything.AssemblyInfo.vb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\obj\Debug\net10.0\everything.vbproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\obj\Debug\net10.0\everything.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\obj\Debug\net10.0\refint\everything.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\obj\Debug\net10.0\everything.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\obj\Debug\net10.0\everything.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\everything\everything\obj\Debug\net10.0\ref\everything.dll

@@ -1,0 +1,14 @@
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\bin\Debug\net10.0\Try - Catch.exe
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\bin\Debug\net10.0\Try - Catch.deps.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\bin\Debug\net10.0\Try - Catch.runtimeconfig.json
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\bin\Debug\net10.0\Try - Catch.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\bin\Debug\net10.0\Try - Catch.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\obj\Debug\net10.0\Try - Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\obj\Debug\net10.0\Try - Catch.AssemblyInfoInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\obj\Debug\net10.0\Try - Catch.AssemblyInfo.vb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\obj\Debug\net10.0\Try - Catch.vbproj.CoreCompileInputs.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\obj\Debug\net10.0\Try - Catch.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\obj\Debug\net10.0\refint\Try - Catch.dll
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\obj\Debug\net10.0\Try - Catch.pdb
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\obj\Debug\net10.0\Try - Catch.genruntimeconfig.cache
+C:\Users\vedan\OneDrive\Desktop\TY\VB .NET\Try - Catch\Try - Catch\obj\Debug\net10.0\ref\Try - Catch.dll

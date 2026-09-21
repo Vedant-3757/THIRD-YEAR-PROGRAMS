@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\Multi-TRY-CATCH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12236545-D5B3-4680-9AAF-3D6B06693D15}|Multi-TRY-CATCH\\Multi-TRY-CATCH.vbproj|c:\\users\\vedan\\onedrive\\desktop\\ty\\vb .net\\multi-try-catch\\multi-try-catch\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{12236545-D5B3-4680-9AAF-3D6B06693D15}|Multi-TRY-CATCH\\Multi-TRY-CATCH.vbproj|solutionrelative:multi-try-catch\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\Multi-TRY-CATCH\\Multi-TRY-CATCH\\Program.vb",
+              "RelativeDocumentMoniker": "Multi-TRY-CATCH\\Program.vb",
+              "ToolTip": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\Multi-TRY-CATCH\\Multi-TRY-CATCH\\Program.vb*",
+              "RelativeToolTip": "Multi-TRY-CATCH\\Program.vb*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-31T05:19:50.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\everything\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47340C22-EFF1-475E-9D74-B6E12A1D20AC}|everything\\everything.vbproj|c:\\users\\vedan\\onedrive\\desktop\\ty\\vb .net\\everything\\everything\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{47340C22-EFF1-475E-9D74-B6E12A1D20AC}|everything\\everything.vbproj|solutionrelative:everything\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\everything\\everything\\Program.vb",
+              "RelativeDocumentMoniker": "everything\\Program.vb",
+              "ToolTip": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\everything\\everything\\Program.vb",
+              "RelativeToolTip": "everything\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-24T04:06:16.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
