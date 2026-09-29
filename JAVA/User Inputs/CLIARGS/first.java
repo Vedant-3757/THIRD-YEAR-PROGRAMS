@@ -23,19 +23,31 @@
 
 
 //greater-smaller number
-public class first{
-    public static void main(String[]args){
-        int a = Integer.parseInt(args[0]);
-        int b = Integer.parseInt(args[1]);
-        if(a>b){
-            System.out.println(a+" is greater than "+b);
-        }
-        else if(b>a){
-            System.out.println(b+" is greater than "+a);
-        }
-        else{
-            System.out.println("Both are equal");
-        }
+// public class first{
+//     public static void main(String[]args){
+//         int a = Integer.parseInt(args[0]);
+//         int b = Integer.parseInt(args[1]);
+//         if(a>b){
+//             System.out.println(a+" is greater than "+b);
+//         }
+//         else if(b>a){
+//             System.out.println(b+" is greater than "+a);
+//         }
+//         else{
+//             System.out.println("Both are equal");
+//         }
 
+//     }
+// }
+
+
+
+
+public class first{
+    public static void main(String[] args) {
+        System.out.println(args.length);
+        for(int i=0;i<=args.length;i++){
+            System.out.println("Args["+i+"]"+args[i]);
+        }
     }
 }

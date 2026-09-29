@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <RootNamespace>class_object</RootNamespace>
+    <RootNamespace>CLASS_OBJECT</RootNamespace>
     <TargetFramework>net10.0</TargetFramework>
   </PropertyGroup>
 

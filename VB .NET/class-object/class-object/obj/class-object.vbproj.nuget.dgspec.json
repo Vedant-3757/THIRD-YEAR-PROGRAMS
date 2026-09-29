@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\class-object\\class-object\\class-object.vbproj": {}
+    "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\CLASS-OBJECT\\CLASS-OBJECT\\CLASS-OBJECT.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\class-object\\class-object\\class-object.vbproj": {
+    "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\CLASS-OBJECT\\CLASS-OBJECT\\CLASS-OBJECT.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\class-object\\class-object\\class-object.vbproj",
-        "projectName": "class-object",
-        "projectPath": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\class-object\\class-object\\class-object.vbproj",
+        "projectUniqueName": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\CLASS-OBJECT\\CLASS-OBJECT\\CLASS-OBJECT.vbproj",
+        "projectName": "CLASS-OBJECT",
+        "projectPath": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\CLASS-OBJECT\\CLASS-OBJECT\\CLASS-OBJECT.vbproj",
         "packagesPath": "C:\\Users\\vedan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\class-object\\class-object\\obj\\",
+        "outputPath": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\CLASS-OBJECT\\CLASS-OBJECT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vedan\\AppData\\Roaming\\NuGet\\NuGet.Config",
