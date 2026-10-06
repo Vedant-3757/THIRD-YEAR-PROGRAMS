@@ -1,5 +1,5 @@
 
-'Q1
+'SET A - Q1
 'Module program
 '    Sub main()
 '        Console.WriteLine("Enter INT input : ")
@@ -72,13 +72,70 @@
 
 
 'Q5
+'Module program
+'    Sub main()
+'        For i As Integer = 1 To 100
+'            If i Mod 5 = 0 Then
+'                Console.WriteLine(i)
+'            End If
+
+'        Next
+'    End Sub
+'End Module
+
+'SET B - Q1
+
+'Module program
+'    Sub main()
+'        Console.WriteLine("Enter First num: ")
+'        Dim a As Integer = Console.ReadLine()
+'        Console.WriteLine("Enter Second num: ")
+'        Dim b As Integer = Console.ReadLine()
+'        Console.WriteLine("OP: + (ADD), - (SUB), * (MULTIPLY), / (DIVIDE)")
+'        Console.WriteLine("Which OPERATION to perform : ")
+'        Dim op As Char = Console.ReadLine()
+'        Select Case op
+'            Case "+"
+'                Console.WriteLine($"Addition of {a} & {b} is " & a + b)
+'            Case "-"
+'                Console.WriteLine($"Substraction of {a} & {b} is " & a - b)
+'            Case "*"
+'                Console.WriteLine($"Multiplication of {a} & {b} is " & a * b)
+'            Case "/"
+'                Console.WriteLine($"Division of {a} & {b} is " & a / b)
+'        End Select
+
+'    End Sub
+'End Module
+
+
+
+'Q2
+'Module program
+'    Sub main()
+'        Console.WriteLine("Enter num: ")
+'        Dim a As Integer = Console.ReadLine()
+'        For i As Integer = 1 To 10
+'            Console.WriteLine($"{a} x {i} = {a * i}")
+'        Next
+'    End Sub
+'End Module
+
+'Q3
 Module program
     Sub main()
-        For i As Integer = 1 To 100
-            If i Mod 5 = 0 Then
-                Console.WriteLine(i)
+        Console.WriteLine("Enter num: ")
+        Dim a As Integer = Console.ReadLine()
+        Dim prime As Boolean = True
+        For i As Integer = 2 To a - 1
+            If a Mod i = 0 Then
+                prime = False
             End If
-
         Next
+        If prime = True Then
+            Console.WriteLine("Number is Prime")
+        ElseIf prime = False Then
+            Console.WriteLine("Number is not prime")
+        End If
     End Sub
 End Module

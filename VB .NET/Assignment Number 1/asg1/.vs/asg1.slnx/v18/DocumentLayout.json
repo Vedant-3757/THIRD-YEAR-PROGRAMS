@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\Assignment Number 1\\asg1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78C6E05E-008B-4DCC-91E3-CB3907392AB2}|asg1\\asg1.vbproj|c:\\users\\vedan\\onedrive\\desktop\\ty\\vb .net\\assignment number 1\\asg1\\asg1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{78C6E05E-008B-4DCC-91E3-CB3907392AB2}|asg1\\asg1.vbproj|solutionrelative:asg1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{7A7CA58E-3374-A29E-7170-5D72D4DFDFE6}|asg1\\asg1.vbproj|c:\\users\\vedan\\onedrive\\desktop\\ty\\vb .net\\assignment number 1\\asg1\\asg1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A7CA58E-3374-A29E-7170-5D72D4DFDFE6}|asg1\\asg1.vbproj|solutionrelative:asg1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "asg1\\Program.vb",
               "ToolTip": "C:\\Users\\vedan\\OneDrive\\Desktop\\TY\\VB .NET\\Assignment Number 1\\asg1\\asg1\\Program.vb",
               "RelativeToolTip": "asg1\\Program.vb",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-09-28T05:05:49.233Z",
               "EditorCaption": ""
