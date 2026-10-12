@@ -1,25 +1,5 @@
 
-'SET A - Q1
-'Module program
-'    Sub main()
-'        Console.WriteLine("Enter INT input : ")
-'        Dim a As Integer = Console.ReadLine()
-'        Console.WriteLine("Enter FLOAT input : ")
-'        Dim b As Single = Console.ReadLine()
-'        Console.WriteLine("Enter CHAR input : ")
-'        Dim c As Char = Console.ReadLine()
-'        Console.WriteLine("Enter STRING input : ")
-'        Dim d As String = Console.ReadLine()
-'        Console.WriteLine("INT : " & a)
-'        Console.WriteLine("FLOAT : " & b)
-'        Console.WriteLine("CHAR : " & c)
-'        Console.WriteLine("STRING : " & d)
-'    End Sub
-'End Module
-
-
-
-'Q2
+'SET A - Q2
 'Module program
 '    Sub main()
 '        Dim a As Integer
@@ -85,28 +65,28 @@
 
 'SET B - Q1
 
-'Module program
-'    Sub main()
-'        Console.WriteLine("Enter First num: ")
-'        Dim a As Integer = Console.ReadLine()
-'        Console.WriteLine("Enter Second num: ")
-'        Dim b As Integer = Console.ReadLine()
-'        Console.WriteLine("OP: + (ADD), - (SUB), * (MULTIPLY), / (DIVIDE)")
-'        Console.WriteLine("Which OPERATION to perform : ")
-'        Dim op As Char = Console.ReadLine()
-'        Select Case op
-'            Case "+"
-'                Console.WriteLine($"Addition of {a} & {b} is " & a + b)
-'            Case "-"
-'                Console.WriteLine($"Substraction of {a} & {b} is " & a - b)
-'            Case "*"
-'                Console.WriteLine($"Multiplication of {a} & {b} is " & a * b)
-'            Case "/"
-'                Console.WriteLine($"Division of {a} & {b} is " & a / b)
-'        End Select
+Module program
+    Sub main()
+        Console.WriteLine("Enter First num: ")
+        Dim a As Integer = Console.ReadLine()
+        Console.WriteLine("Enter Second num: ")
+        Dim b As Integer = Console.ReadLine()
+        Console.WriteLine("OP: + (ADD), - (SUB), * (MULTIPLY), / (DIVIDE)")
+        Console.WriteLine("Which OPERATION to perform : ")
+        Dim op As Char = Console.ReadLine()
+        Select Case op
+            Case "+"
+                Console.WriteLine($"Addition of {a} & {b} is " & a + b)
+            Case "-"
+                Console.WriteLine($"Substraction of {a} & {b} is " & a - b)
+            Case "*"
+                Console.WriteLine($"Multiplication of {a} & {b} is " & a * b)
+            Case "/"
+                Console.WriteLine($"Division of {a} & {b} is " & a / b)
+        End Select
 
-'    End Sub
-'End Module
+    End Sub
+End Module
 
 
 
@@ -122,20 +102,69 @@
 'End Module
 
 'Q3
-Module program
-    Sub main()
-        Console.WriteLine("Enter num: ")
-        Dim a As Integer = Console.ReadLine()
-        Dim prime As Boolean = True
-        For i As Integer = 2 To a - 1
-            If a Mod i = 0 Then
-                prime = False
-            End If
-        Next
-        If prime = True Then
-            Console.WriteLine("Number is Prime")
-        ElseIf prime = False Then
-            Console.WriteLine("Number is not prime")
-        End If
-    End Sub
-End Module
+'Module program
+'    Sub main()
+'        Console.WriteLine("Enter num: ")
+'        Dim a As Integer = Console.ReadLine()
+'        Dim prime As Boolean = True
+'        For i As Integer = 2 To a - 1
+'            If a Mod i = 0 Then
+'                prime = False
+'            End If
+'        Next
+'        If prime = True Then
+'            Console.WriteLine("Number is Prime")
+'        ElseIf prime = False Then
+'            Console.WriteLine("Number is not prime")
+'        End If
+'    End Sub
+'End Module
+
+
+'SET C
+'Q1
+'Module program
+
+'    Sub main()
+'        Dim a As String = "madam"
+'        Dim b As String = StrReverse(a)
+'        If a = b Then
+'            Console.WriteLine("Entered word is pallindrome")
+'        Else
+'            Console.WriteLine("Entered word is not pallindrome")
+'        End If
+'    End Sub
+'End Module
+
+
+
+
+'Q2
+'Module program
+'    Sub main()
+'        Console.WriteLine("Enter first subject marks: ")
+'        Dim sub1 As Integer = Console.ReadLine()
+'        Console.WriteLine("Enter second subject marks: ")
+'        Dim sub2 As Double = Console.ReadLine()
+'        Console.WriteLine("Enter third subject marks: ")
+'        Dim sub3 As Double = Console.ReadLine()
+'        Console.WriteLine("Enter fourth subject marks: ")
+'        Dim sub4 As Double = Console.ReadLine()
+'        Console.WriteLine("Enter fifth subject marks: ")
+'        Dim sub5 As Double = Console.ReadLine()
+'        Dim per As Double = sub1 + sub2 + sub3 + sub4 + sub5 / 150 * 100
+'        If per >= 90.0 Then
+'            Console.WriteLine("Grade A with Dinstinction")
+'        ElseIf per >= 80.0 Then
+'            Console.WriteLine("Grade A")
+'        ElseIf per >= 60.0 Then
+'            Console.WriteLine("Grade B")
+'        ElseIf per >= 40.0 Then
+'            Console.WriteLine("Grade C")
+'        ElseIf per >= 355.0 Then
+'            Console.WriteLine("Pass")
+'        Else
+'            Console.WriteLine("Fail")
+'        End If
+'    End Sub
+'End Module
