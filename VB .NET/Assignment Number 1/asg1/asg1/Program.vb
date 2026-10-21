@@ -65,28 +65,28 @@
 
 'SET B - Q1
 
-Module program
-    Sub main()
-        Console.WriteLine("Enter First num: ")
-        Dim a As Integer = Console.ReadLine()
-        Console.WriteLine("Enter Second num: ")
-        Dim b As Integer = Console.ReadLine()
-        Console.WriteLine("OP: + (ADD), - (SUB), * (MULTIPLY), / (DIVIDE)")
-        Console.WriteLine("Which OPERATION to perform : ")
-        Dim op As Char = Console.ReadLine()
-        Select Case op
-            Case "+"
-                Console.WriteLine($"Addition of {a} & {b} is " & a + b)
-            Case "-"
-                Console.WriteLine($"Substraction of {a} & {b} is " & a - b)
-            Case "*"
-                Console.WriteLine($"Multiplication of {a} & {b} is " & a * b)
-            Case "/"
-                Console.WriteLine($"Division of {a} & {b} is " & a / b)
-        End Select
+'Module program
+'    Sub main()
+'        Console.WriteLine("Enter First num: ")
+'        Dim a As Integer = Console.ReadLine()
+'        Console.WriteLine("Enter Second num: ")
+'        Dim b As Integer = Console.ReadLine()
+'        Console.WriteLine("OP: + (ADD), - (SUB), * (MULTIPLY), / (DIVIDE)")
+'        Console.WriteLine("Which OPERATION to perform : ")
+'        Dim op As Char = Console.ReadLine()
+'        Select Case op
+'            Case "+"
+'                Console.WriteLine($"Addition of {a} & {b} is " & a + b)
+'            Case "-"
+'                Console.WriteLine($"Substraction of {a} & {b} is " & a - b)
+'            Case "*"
+'                Console.WriteLine($"Multiplication of {a} & {b} is " & a * b)
+'            Case "/"
+'                Console.WriteLine($"Division of {a} & {b} is " & a / b)
+'        End Select
 
-    End Sub
-End Module
+'    End Sub
+'End Module
 
 
 
@@ -161,7 +161,7 @@ End Module
 '            Console.WriteLine("Grade B")
 '        ElseIf per >= 40.0 Then
 '            Console.WriteLine("Grade C")
-'        ElseIf per >= 355.0 Then
+'        ElseIf per >= 35.0 Then
 '            Console.WriteLine("Pass")
 '        Else
 '            Console.WriteLine("Fail")
