@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("asg3"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fe23303c1cbb8f6ad67e9afc10a2007f8d8ca45"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c763fd4d5d707d918eff9f4060292e520a5c9d05"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("asg3"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("asg3"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
