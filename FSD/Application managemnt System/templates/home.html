@@ -2,13 +2,40 @@
 <html lang="en">
 <head>
     <title>Home</title>
+    <style>
+        body{
+            background-color: rgb(170, 167, 167);
+            text-align: center;
+            padding-top: 200px;
+            a{
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                border: 2px solid white;
+                margin:0 auto;
+                width:fit-content;
+                padding-bottom: 10px;
+                padding-top: 10px;
+                padding-left: 10px;
+                padding-right: 10px;
+                border-radius: 20px;
+                background-color: aliceblue;
+                text-decoration: none;
+            }
+        }
+        .a{
+            display:flex;
+            justify-content: center;
+            gap:40px;
+        }
+    </style>
 </head>
 <body>
     <form action="/home">
-        <h2>Welcome to Student Management Portal</h2>
-        <h3><a href="/newapplication">New Application</a></h3>
-        <h3><a href="/adminauth">Admin Portal</a></h3>
-        <h3><a href="/profile">Go to Profile</a></h3>
+        <h2>Welcome to Student Management Portal</h2><br>
+        <div class="a">
+        <h3><a href="/newapplication" style="color:black;">New Application</a></h3>
+        <h3><a href="/adminauth" style="color:black;">Admin Portal</a></h3>
+        <h3><a href="/profile" style="color:black;">Go to Profile</a></h3>
+        </div>
     </form>
 </body>
 </html>

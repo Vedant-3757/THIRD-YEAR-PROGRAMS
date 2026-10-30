@@ -2,10 +2,18 @@
 <html lang="en">
 <head>
     <title>Profile</title>
+    <style>
+        body{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-align: center;
+            padding-top: 160px;
+            background-color:  rgb(170, 167, 167);
+        }
+    </style>
 </head>
 <body>
     <form action="/profile" method="post">
-        <h2>Your Profile</h2>
+        <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Your Profile</h2>
         {% if user %}
         Name: {{user[0]}}<br><br>
         Email: {{user[1]}}<br><br>
