@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>New Application</title>
+</head>
+<body>
+    <form action="/newapplication" method="post">
+        <h2>Submit a New Application</h2>
+        Date: <br>
+        <input type="date" name="date" required><br><br>
+        To: <br>
+        <textarea name="whom" cols="20" rows="5"></textarea><br><br>
+        Subject: <br>
+        <textarea name="subject" cols="20" rows="5"></textarea><br><br>
+        Description: <br>
+        <textarea name="desc" rows="5" cols="40" required></textarea><br><br>
+        Greetings: <br>
+        <textarea name="greetings" cols="30" rows="5"></textarea><br><br>
+        <button action="submit">Submit</button>
+    </form>
+</body>
+</html>

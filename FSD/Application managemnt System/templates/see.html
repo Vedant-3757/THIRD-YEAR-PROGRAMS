@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>See</title>
+</head>
+<body>
+    <form action="/see">
+        <h1>See all Submitted Records</h1>
+    </form>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>ID</th>
+            <th>DATE</th>
+            <th>TO</th>
+            <th>SUBJECT</th>
+            <th>DESCRIPTION</th>
+            <th>BY</th>
+        </tr>
+        {% for a in applications %}
+        <tr>
+            <td>{{a[0]}}</td>
+            <td>{{a[1]}}</td>
+            <td>{{a[2]}}</td>
+            <td>{{a[3]}}</td>
+            <td>{{a[4]}}</td>
+            <td>{{a[5]}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
